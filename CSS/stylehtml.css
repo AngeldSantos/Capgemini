@@ -1,0 +1,12 @@
+.box{
+    box-sizing: content-box;
+}
+.vermelho{
+  background-color: red;
+}
+.azul{
+  background-color: blue;
+}
+.verde{
+  background-color: green;
+}
